@@ -11,7 +11,8 @@ Methods: Firstly, I'll process the original data:
 4. calculate the length of coding sequences for one gene
 5. use loop to calculate the length of coding sequences for each gene
 6. add up the length of coding sequences for each gene to get the total length of coding sequences for all genes
-Test:
+
+Test: I'll define two functions: sum_exon() and sum_exon_final(), and I'll use pytest to test these functions
 
 This project will use many python knowledge I learnt in this course, including python data types, python data structures, python functions, python packages...
 This project is very interesting and useful and will resolve a problem I meet in my research work.
